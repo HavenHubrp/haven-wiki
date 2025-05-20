@@ -1,0 +1,24 @@
+
+site_name: Haven Wiki
+repo_url: https://github.com/HavenHubrp/haven-wiki
+theme:
+  name: material
+  language: ru
+  palette:
+    scheme: slate
+  logo: assets/logo.png
+nav:
+  - Главная: index.md
+  - Матчасть:
+      - Введение: Матчасть/README.md
+  - Хранилище:
+      - Содержимое: Хранилище/README.md
+  - NPC:
+      - Delta: NPC/Delta/README.md
+      - Fate: NPC/Fate/README.md
+  - Организации:
+      - Общая информация: Организации/README.md
+      - США: Организации/США.md
+      - Япония: Организации/Япония.md
+  - Истории:
+      - Начало: Истории/README.md
